@@ -9,7 +9,7 @@
 #import <Cocoa/Cocoa.h>
 
 
-@interface NSString (NumberConvenience)
+@interface NSString(NumberConvenience)
 
 - (NSNumber *)lengthAsNumber;
 

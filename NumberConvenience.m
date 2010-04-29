@@ -8,7 +8,7 @@
 
 #import "NumberConvenience.h"
 
-@implementation NSString (NumberConvenience)
+@implementation NSString(NumberConvenience)
 
 - (NSNumber*)lengthAsNumber {
 	unsigned int length = [self length];
